@@ -1,0 +1,32 @@
+,Açıklamalar,Tarih,İstanbul,Batı Marmara,Ege,Doğu Marmara,Batı Anadolu,Akdeniz,Orta Anadolu,Batı Karadeniz,Doğu Karadeniz,Kuzeydoğu Anadolu,Orta Doğu Anadolu,Güneydoğu Anadolu,Türkiye,Durum,Kontrol,Veri Giren
+1,Tablo5a,28.06.2020,2.687,152,490,534,336,124,84,182,89,63,53,303,5097,Tamam,Onaylandı,Abdullah Uçar
+,"İBBS-1'e Göre COVID-19 Ölüm Sayısı ve İnsidansı, (100.000 Nüfusta), Türkiye - Toplam Ölüm Sayısı",05.07.2020,2.711,153,508,545,358,127,86,185,90,64,54,344,5.225,Tamam,Onaylandı,Songül Ören
+2,Veri Girişi,12.07.2020,2.735,156,520,553,379,133,86,186,90,66,56,403,5.363,Tamam,Onaylandı,Songül Ören
+,Songül ören,19.07.2020,2.755,157,527,560,408,136,88,188,96,66,61,449,5.491,Tamam,Onaylandı,Songül Ören
+3,Veri Kontrolü,26.07.2020,2.773,159,539,572,430,142,89,191,97,68,68,485,5.613,Tamam,Onaylandı,Songül Ören
+,Hatice Sena Manap ,02.08.2020,2.791,160,547,582,453,150,92,193,100,69,74,517,5.728,Tamam,Onaylandı,Songül Ören
+4,Koordinatör,09.08.2020,2.811,160,553,590,471,156,93,193,101,70,81,565,5.844,Tamam,Onaylandı,Songül Ören
+,Abdullah Uçar,16.08.2020,2.830,162,562,598,490,159,95,196,102,75,86,619,5.974,,,
+5,Kapsam,23.08.2020,2.843,162,576,613,531,163,98,197,105,75,90,668,6.121,Tamam,Onaylandı,Songül Ören
+,"Bu veri seti, Sağlık Bakanlığı günlük raporlarında sunulan verileri içermektedir. ",30.08.2020,2.865,164,591,623,576,170,107,206,110,77,97,740,6.326,Tamam,Onaylandı,Songül Ören
+6,Kaynak,06.09.2020,2.899,171,612,635,651,196,155,225,125,96,126,782,6673,Tamam,Onaylandı,Abdullah Uçar
+,Sağlık Bakanlığı Haftalık Raporları,13.09.2020,2.941,180,638,653,733,222,214,253,138,112,157,815,7056,Tamam,Onaylandı,Abdullah Uçar
+7,Notlar,20.09.2020,2.986,191,668,670,822,263,284,290,150,133,196,853,7506,Tamam,Onaylandı,Abdullah Uçar
+,"29 Temmuz 2020 tarihinden itibaren Sağlık Bakanlığı tarafından yayınlanan turkuvaz tabloda ""vaka"" ifadeleri ""hasta"" ifadesi ile değiştirilmiştir. ",27.09.2020,3.041,200,710,691,915,314,347,319,163,158,236,903,7997,Tamam,Onaylandı,Abdullah Uçar
+,"30 Eylül 2020 Sağlık Bakanlığı açıklamasında, “vaka sayısı” ifadesinin sadece semptomatik vakaları, yani “hasta sayısı”nı ifade ettiği, asemptomatik vakaları kapsamadığı ifade edilmiştir. Bu tanıma istinaden 2 Ekim 2020 itibariyle TURCOVID19 içeriklerinde Türkiye verilerine yönelik “vaka” ifadesi “hasta” ifadesi ile değiştirilmiştir.",04.10.2020,3.090,210,752,713,1.002,359,399,353,175,176,268,944,8.441,Tamam,Onaylandı,Songül Ören
+8,Sorumluluk Reddi,11.10.2020,3.135,215,791,733,1.091,393,441,380,185,196,296,981,8.837,Tamam,Onaylandı,Songül Ören
+,Veri setindeki olası hataların / eksikliklerin kontrol sorumluluğu kullanıcılara aittir.,18.10.2020,3.190,223,843,761,1.188,432,481,418,196,214,323,1.027,9.296,Tamam,Onaylandı,Songül Ören
+,TURCOVID19 veri setinin kullanımından kaynaklanabilecek her türlü maddi ve manevi zararların sorumluluğunu reddeler.,25.10.2020,3.253,235,902,810,1.278,479,524,453,208,231,354,1.072,9.799,Tamam,Onaylandı,Songül Ören
+9,TURCOVID19 Hakkında,,,,,,,,,,,,,,,,,
+,https://turcovid19.com/hakkimizda/,,,,,,,,,,,,,,,,,
+10,Geri Bildirim,,,,,,,,,,,,,,,,,
+,https://turcovid19.com/iletisim/,,,,,,,,,,,,,,,,,
+11,"Kullanım Hakları, Lisans ve Atıf",,,,,,,,,,,,,,,,,
+,Veri setinin kullanım hakları TURCOVID19'a aittir,,,,,,,,,,,,,,,,,
+,"Bu veri seti,  CC BY-NC-ND 4.0 lisansı ile lisanslanmıştır. ",,,,,,,,,,,,,,,,,
+,Atıf yapmak koşuluyla kullanım ve paylaşıma açıktır. ,,,,,,,,,,,,,,,,,
+12,Atıf,,,,,,,,,,,,,,,,,
+,"Akademik: Uçar, A , Arslan, Ş , Manap, H , Gürkan, T , Çalışkan, M , Dayıoğlu, A , Efe, H , Yılmaz, M , İbrahi̇moğlu, A , Gülteki̇n, E , Durna, R , Başar, R , Osmanoğlu, F , Ören, S . (2020). Türkiye’de Covid-19 Pandemisinin Monitörizasyonu Için Interaktif Ve Gerçek Zamanlı Bir Web Uygulaması: TURCOVID19 . Anatolian Clinic the Journal of Medical Sciences , 25 (Special Issue on COVID 19) , 154-155 . DOI: 10.21673/anadoluklin.726347",,,,,,,,,,,,,,,,,
+,"Web: <div>Kaynak: <a title=""TURCOVID19"" href=""https://turcovid19.com"">turcovid19.com</a></div>",,,,,,,,,,,,,,,,,
+,Basılı görseller: turcovid19.com,,,,,,,,,,,,,,,,,
+,Video: turcovid19.com,,,,,,,,,,,,,,,,,
